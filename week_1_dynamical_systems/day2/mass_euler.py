@@ -10,6 +10,7 @@ vk = 0
 sim_time = 30
 # reference = 10 #For regulation
 Kp = 0.5
+
 time = []
 position = []
 velocity = []
